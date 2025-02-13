@@ -1,6 +1,6 @@
 # About Me 👋
 
-**Mr-Brown-Lausanne/Mr-Brown-Lausanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mr-Brown-Lausanne/Mr-Brown-Lausanne**
 
 Here are some ideas to get you started:
 
