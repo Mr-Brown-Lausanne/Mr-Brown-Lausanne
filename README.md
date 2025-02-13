@@ -1,6 +1,6 @@
 # About Me 👋
 
-**Mr-Brown-Lausanne/Mr-Brown-Lausanne**
+**Mr-Brown-Lausanne**
 
 Here are some ideas to get you started:
 
